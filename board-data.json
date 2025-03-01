@@ -1,0 +1,124 @@
+{
+    "columns": [
+        {
+            "title": "🧭 Future",
+            "cards": [
+                {
+                    "image": "/media/1/members.png",
+                    "tag": "social",
+                    "title": "Call member list",
+                    "description": "Display a list of all members joined to an active voice call in the sidebar."
+                },
+                {
+                    "image": "/media/1/media.png",
+                    "tag": "feature",
+                    "title": "Rich media embedding",
+                    "description": "When a link to a media file/website is shared, it should be displayed as a preview. This should also include media players for audio and video."
+                },
+                {
+                    "image": "/media/1/themes.png",
+                    "tag": "visual",
+                    "title": "Custom themes",
+                    "description": "The user should be able to customise the look and feel of the application, such as changing the colour scheme. And be able to share themes they create with others."
+                },
+                {
+                    "image": "/media/1/categories.png",
+                    "tag": "feature",
+                    "title": "Custom room categories",
+                    "description": "The user should be able to define custom categories for rooms, and move rooms between them easily."
+                },
+                {
+                    "tag": "meta",
+                    "title": "elecord.app website",
+                    "description": "The main website should help new users understand what elecord is and how to use it."
+                },
+                {
+                    "tag": "meta",
+                    "title": "Public release",
+                    "description": "Once all major prerequisite features are implemented, the elecord will be ready for public use, and users should be able to download and install it."
+                }
+            ]
+        },
+        {
+            "title": "⏰ Soon",
+            "cards": [
+                {
+                    "tag": "meta",
+                    "title": "Desktop app",
+                    "description": "Build the app as a desktop executable, which can be installed and run on Windows, Linux, and macOS."
+                },
+                {
+                    "image": "/media/1/changelog.png",
+                    "tag": "meta",
+                    "title": "In-app changelog",
+                    "description": "After the app is updated, a changelog window should be displayed. Listing all the changes that have been made since the last release."
+                },
+                {
+                    "tag": "visual",
+                    "title": "Chat room styling",
+                    "description": "Further styling changes should be made inside the chat room, such as adjusting the message composer visual appearance."
+                },
+                {
+                    "image": "/media/1/rpc.png",
+                    "tag": "social",
+                    "title": "Rich presence for games",
+                    "description": "When other people are playing a game, their current activity should be reflected in the sidebar."
+                }
+            ]
+        },
+        {
+            "title": "✅ Done",
+            "cards": [
+                {
+                    "tag": "dev",
+                    "title": "Automatic releases",
+                    "description": "When ready for release, all release processes should occur automatically, to ensure a stable rollout of new features to the live environment."
+                },
+                {
+                    "tag": "visual",
+                    "title": "Room navigation styling",
+                    "description": "Make the first initial styling changes to how rooms are displayed in the sidebar. Better fitting elecord's design documents."
+                },
+                {
+                    "tag": "visual",
+                    "title": "Dynamic versioning",
+                    "description": "The application should always display the current version number of the software automatically. Along with a BETA tag, as the software is still in early development."
+                },
+                {
+                    "tag": "feature",
+                    "title": "Matrix.org support",
+                    "description": "Ensure the application works with the main Matrix.org public homeserver, including support for user registration."
+                },
+                {
+                    "tag": "dev",
+                    "title": "Setup continuous deployment",
+                    "description": "When changes are made to the codebase, the application should be automatically deployed to the appropriate environment."
+                },
+                {
+                    "tag": "dev",
+                    "title": "Port elecord v1 features",
+                    "description": "Bring over the small set of existing features from the original elecord v1 project."
+                },
+                {
+                    "tag": "dev",
+                    "title": "Setup element-web fork",
+                    "description": "Create a brand-new fork of element-web to commence work on elecord-web v2."
+                }
+            ]
+        },
+        {
+            "title": "",
+            "cards": [
+                {
+                    "tag": "#",
+                    "title": "Last Updated: 02-2025"
+                },
+                {
+                    "tag": "?",
+                    "title": "About this board",
+                    "description": "This is the public roadmap for elecord-web. It's a high-level overview of the main features planned for the year ahead. It is not an exhaustive list of everything being worked on, as many other details are kept to the internal project board."
+                }
+            ]
+        }
+    ]
+}
