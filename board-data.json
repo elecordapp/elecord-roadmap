@@ -4,12 +4,6 @@
             "title": "🧭 Future",
             "cards": [
                 {
-                    "image": "/media/1/members.png",
-                    "tag": "social",
-                    "title": "Call member list",
-                    "description": "Display a list of all members joined to an active voice call in the sidebar."
-                },
-                {
                     "image": "/media/1/media.png",
                     "tag": "feature",
                     "title": "Rich media embedding",
@@ -43,6 +37,28 @@
             "title": "⏰ Soon",
             "cards": [
                 {
+                    "image": "/media/1/rpc.png",
+                    "tag": "social",
+                    "title": "Rich presence for games",
+                    "description": "When other people are playing a game, their current activity should be reflected in the sidebar."
+                },
+                {
+                    "image": "/media/1/members.png",
+                    "tag": "social",
+                    "title": "Call member list",
+                    "description": "Display a list of all members joined to an active voice call in the sidebar."
+                }
+            ]
+        },
+        {
+            "title": "✅ Done",
+            "cards": [
+                {
+                    "tag": "visual",
+                    "title": "Chat room styling",
+                    "description": "Further styling changes should be made inside the chat room, such as adjusting the message composer visual appearance."
+                },
+                {
                     "tag": "meta",
                     "title": "Desktop app",
                     "description": "Build the app as a desktop executable, which can be installed and run on Windows, Linux, and macOS."
@@ -53,22 +69,6 @@
                     "title": "In-app changelog",
                     "description": "After the app is updated, a changelog window should be displayed. Listing all the changes that have been made since the last release."
                 },
-                {
-                    "tag": "visual",
-                    "title": "Chat room styling",
-                    "description": "Further styling changes should be made inside the chat room, such as adjusting the message composer visual appearance."
-                },
-                {
-                    "image": "/media/1/rpc.png",
-                    "tag": "social",
-                    "title": "Rich presence for games",
-                    "description": "When other people are playing a game, their current activity should be reflected in the sidebar."
-                }
-            ]
-        },
-        {
-            "title": "✅ Done",
-            "cards": [
                 {
                     "tag": "dev",
                     "title": "Automatic releases",
@@ -96,13 +96,8 @@
                 },
                 {
                     "tag": "dev",
-                    "title": "Port elecord v1 features",
-                    "description": "Bring over the small set of existing features from the original elecord v1 project."
-                },
-                {
-                    "tag": "dev",
-                    "title": "Setup element-web fork",
-                    "description": "Create a brand-new fork of element-web to commence work on elecord-web v2."
+                    "title": "Import elecord v1 features",
+                    "description": "Carry over the small set of features from the original elecord v1 project. Setting up a brand-new fork of element-web."
                 }
             ]
         },
@@ -111,7 +106,7 @@
             "cards": [
                 {
                     "tag": "#",
-                    "title": "Last Updated: 02-2025"
+                    "title": "Last Updated: 03-2025"
                 },
                 {
                     "tag": "?",
