@@ -37,12 +37,6 @@
             "title": "⏰ Soon",
             "cards": [
                 {
-                    "image": "/media/1/rpc.png",
-                    "tag": "social",
-                    "title": "Rich presence for games",
-                    "description": "When other people are playing a game, their current activity should be reflected in the sidebar."
-                },
-                {
                     "image": "/media/1/members.png",
                     "tag": "social",
                     "title": "Call member list",
@@ -53,6 +47,12 @@
         {
             "title": "✅ Done",
             "cards": [
+                {
+                    "image": "/media/1/rpc.png",
+                    "tag": "social",
+                    "title": "Rich presence for games",
+                    "description": "When other people are playing a game, their current activity should be reflected in the sidebar."
+                },
                 {
                     "tag": "visual",
                     "title": "Chat room styling",
@@ -106,7 +106,7 @@
             "cards": [
                 {
                     "tag": "#",
-                    "title": "Last Updated: 03-2025"
+                    "title": "Last Updated: 05-2025"
                 },
                 {
                     "tag": "?",
